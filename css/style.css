@@ -1,0 +1,22 @@
+.container{
+    margin-top: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+table{
+    margin: 20px auto 0;
+}
+
+table td{
+    width: 80px;
+    height: 80px;
+    background: #ffffff;
+    border: 1px solid #333333;
+}
+
+table td.hovered{
+    background: #000000;
+}
